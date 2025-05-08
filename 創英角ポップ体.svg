@@ -1,0 +1,15 @@
+<svg width="1412" height="1419" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden">
+  <g>
+    <rect width="1405" height="369" stroke="#042433" stroke-miterlimit="8" fill="#156082" />
+    <text fill="#FFFFFF" font-family="HGSoeiKakupoptai,HGSoeiKakupoptai_MSFontService,system-ui" font-size="83">HG</text>
+    <text fill="#FFFFFF" font-family="HGSoeiKakupoptai,HGSoeiKakupoptai_MSFontService,sans-serif"  font-size="83">創英角ポップ体</text>
+
+    <rect x="444.5" y="664.5" width="1405" height="369" stroke="#042433" stroke-width="6.875" stroke-miterlimit="8" fill="#156082" />
+    <text fill="#FFFFFF" font-family="HGSSoeiKakupoptai,HGSSoeiKakupoptai_MSFontService,system-ui" font-size="83" transform="matrix(1 0 0 1 783.472 884)">HGS</text>
+    <text fill="#FFFFFF" font-family="HGSSoeiKakupoptai,HGSSoeiKakupoptai_MSFontService,sans-serif"  font-size="83" transform="matrix(1 0 0 1 931.285 884)">創英角ポップ体</text>
+
+    <rect x="444.5" y="1203.5" width="1405" height="369" stroke="#042433" stroke-width="6.875" stroke-miterlimit="8" fill="#156082" />
+    <text fill="#FFFFFF" font-family="HGPSoeiKakupoptai,HGPSoeiKakupoptai_MSFontService,system-ui" font-size="83" transform="matrix(1 0 0 1 801.233 1423)">HGP</text>
+    <text fill="#FFFFFF" font-family="HGPSoeiKakupoptai,HGPSoeiKakupoptai_MSFontService,sans-serif"  font-size="83" transform="matrix(1 0 0 1 953.629 1423)">創英角ポップ体</text>
+  </g>
+</svg>
