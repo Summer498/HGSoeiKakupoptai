@@ -31,10 +31,10 @@ export default function handler(req: NextApiRequest, res: NextApiResponse<string
       `<svg width="705" height="727" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden">`,
       `<g transform="translate(-2649 -518)">`,
       `<rect x="2746" y="565" width="511" height="566" fill="#FFFFFF" />`,
-      `<text fill="#${col1}" font-family="HGSoeiKakupoptai,HGSoeiKakupoptai_MSFontService,sans-serif" font-weight="400" font-size="220" transform="matrix(1 0 0 1 2781.94 811)">${m[0] || ""}</text>`,
-      `<text fill="#${col2}" font-family="HGSoeiKakupoptai,HGSoeiKakupoptai_MSFontService,sans-serif" font-weight="400" font-size="220" transform="matrix(1 0 0 1 3001.94 811)">${m[1] || ""}</text>`,
-      `<text fill="#${col3}" font-family="HGSoeiKakupoptai,HGSoeiKakupoptai_MSFontService,sans-serif" font-weight="400" font-size="220" transform="matrix(1 0 0 1 2781.94 1075)">${m[2] || ""}</text>`,
-      `<text fill="#${col4}" font-family="HGSoeiKakupoptai,HGSoeiKakupoptai_MSFontService,sans-serif" font-weight="400" font-size="220" transform="matrix(1 0 0 1 3001.94 1075)">${m[3] || ""}</text>`,
+      `<text fill="#${col1}" font-family="HGSoeiKakupoptai,HGSoeiKakupoptai_MSFontService,Hiragino Sans,Hiragino Kaku Gothic ProN,ヒラギノ角ゴシック,sans-serif" font-weight="400" font-size="220" transform="matrix(1 0 0 1 2781.94 811)">${m[0] || ""}</text>`,
+      `<text fill="#${col2}" font-family="HGSoeiKakupoptai,HGSoeiKakupoptai_MSFontService,Hiragino Sans,Hiragino Kaku Gothic ProN,ヒラギノ角ゴシック,sans-serif" font-weight="400" font-size="220" transform="matrix(1 0 0 1 3001.94 811)">${m[1] || ""}</text>`,
+      `<text fill="#${col3}" font-family="HGSoeiKakupoptai,HGSoeiKakupoptai_MSFontService,Hiragino Sans,Hiragino Kaku Gothic ProN,ヒラギノ角ゴシック,sans-serif" font-weight="400" font-size="220" transform="matrix(1 0 0 1 2781.94 1075)">${m[2] || ""}</text>`,
+      `<text fill="#${col4}" font-family="HGSoeiKakupoptai,HGSoeiKakupoptai_MSFontService,Hiragino Sans,Hiragino Kaku Gothic ProN,ヒラギノ角ゴシック,sans-serif" font-weight="400" font-size="220" transform="matrix(1 0 0 1 3001.94 1075)">${m[3] || ""}</text>`,
       `</g>`,
       `</svg>`
     ].join();
